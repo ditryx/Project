@@ -1,0 +1,11 @@
+/auth_request§login§password
+/auth_accept§nickname
+/auth_denied
+
+/msg_format_error
+
+/type_broadcast
+
+users = {u1, u2, u3}
+
+/userlist§u1§u2§u3
